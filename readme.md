@@ -1,0 +1,1 @@
+Projekt WSB Mertio 2023 - Narzędzia wspierajace wytwarzanie oprogramowania
